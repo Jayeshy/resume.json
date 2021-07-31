@@ -1,0 +1,76 @@
+{
+    "basics": {
+        "name": "Jayesh Yadav",
+        "label": "Student",
+	"picture": "https://avatars.githubusercontent.com/u/78721142?v=4",
+        "email": "2020kucp1067@iiitkota.ac.in",
+        "phone": "+917724921978",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Rasgaon",
+            "postalCode": "451442",
+            "city": "Khargone",
+            "countryCode": " India",
+            "region": "Madhya Pradesh"
+        },
+        "profiles": [
+                {
+                "network": "Github",
+                "username": "Jayeshy",
+                "url": "https://github.com/Jayeshy"
+            },
+            {
+                "network": "linkedin",
+                "username": "Jayesh Yadav",
+                "url": "https://www.linkedin.com/in/jayesh-yadav-99b80020b"
+            },
+            {
+                "network": "Instagram",
+                "username": "jayesh.yadav14",
+                "url": "https://instagram.com/jayesh.yadav14?utm_medium=copy_link"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Writing",
+            "keywords": [
+                "Shayari"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Basketball",
+                "Swimming",
+            ]
+        }
+    ],
+    "references": []
+}
